@@ -1,0 +1,16 @@
+/* 这里写公共的样式 */
+/* 这里写全局的css样式 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+body,
+html,
+.app {
+  height: 100%;
+}
+i {
+  font-style: normal;
+}
